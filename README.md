@@ -4,7 +4,7 @@
 
 Hi! My name is Jorge, I am currently a Junior developer.
 
-I define myself as a pragmatic programer that enjoys my love-hate relationship with this binary world...
+I define myself as a pragmatic programer that enjoys my love-hate relationship with this binary world... \n
 at least most of the time. 😅
 
 - 📚 I'm finishing Cross-Platform Application Development studies but I also have some experience developing games.
