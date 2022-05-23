@@ -50,6 +50,6 @@ I am a pragmatic programer that enjoys my work.
 ## Statistics   
 
    <p align="center">
-      <img width="56%" src=" https://github-readme-stats.vercel.app/api?username=JorgeGFS&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=true"/>
+      <img width="56%" src="https://github-readme-stats.vercel.app/api?username=JorgeGFS&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=true"/>
       <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGFS&layout=compact&theme=dark&hide_border=true&count_private=true&show_icons=true&langs_count=10"/>
    </p>
