@@ -7,7 +7,7 @@ Hi! My name is Jorge, Junior developer.
 I am a pragmatic programer that enjoys my work.
 
 - 📚 I'm finishing my studies of Cross-Platform Application Development but I also have experience developing games.
-- 🌱 I’m currently learning Kotlin,python and whatever helps me grow...
+- 🌱 I’m currently learning Kotlin,python,docker and whatever helps me grow...
 
 # Development
 
