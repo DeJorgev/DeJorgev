@@ -2,7 +2,7 @@
 
 ## Hello there! 👋
 
-Hi! My name is Jorge, Junior developer.
+Hi! My name is Jorge, currently a Junior developer.
 
 I am a pragmatic programer that enjoys my work, at least most of the time. 😅
 
